@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>website on uday</title>
+    <title>website on udaypandey</title>
     <link>http://www.pandeyuday.com.np/tags/website/</link>
-    <description>Recent content in website on uday</description>
+    <description>Recent content in website on udaypandey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 31 Mar 2023 08:15:29 +0545</lastBuildDate><atom:link href="http://www.pandeyuday.com.np/tags/website/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,7 @@
       <pubDate>Fri, 31 Mar 2023 08:15:29 +0545</pubDate>
       
       <guid>http://www.pandeyuday.com.np/posts/made-website/</guid>
-      <description>So, I made a website using Hugo. And it was very easy.
-I will insert an image here.
-The Universe
-Isn&amp;rsquo;t the universe beautiful?</description>
+      <description>So, I made a website using Hugo. And it was very easy. Link to heading It&amp;rsquo;s pretty easy to build a website. It took me about one week of searching, reading and copy-pasting to build this website. I didn&amp;rsquo;t want to make a wordpress website, that would have been way easier. I chose to use Static Site Generators (SSGs)1. Making a website with SSGs is also pretty easy, but for someone like me, with no coding experience, this was quite a challenge.</description>
     </item>
     
     <item>
@@ -26,7 +23,7 @@ Isn&amp;rsquo;t the universe beautiful?</description>
       
       <guid>http://www.pandeyuday.com.np/posts/more-testing/</guid>
       <description>I&amp;rsquo;m doing more testing.
-Shortcodes Avisos Link to heading Note I&amp;rsquo;m smiling 😄. Tip Study more 📖. Example Handegg is a sport 🏈. Question What is love? Baby don&amp;rsquo;t hurt me.. Info Cyanide is poisonous 💀. Warning I&amp;rsquo;m handsome! 😏 Error You&amp;rsquo;re stupid. This is how you add charts to websites.
+Shortcodes Avisos Link to heading Note I&amp;rsquo;m smiling. 😄 Tip Study more. 📖 Example Handegg is a sport. 🏈 Question What is love? Baby don&amp;rsquo;t hurt me.. Info Cyanide is poisonous. 💀 Warning I&amp;rsquo;m handsome! 😏 Error You&amp;rsquo;re stupid. This is how you add charts to websites.
 flowchart LR Study --&gt; Pass Pass --&gt; Happy Happy --&gt; Money Money --&gt; Happy </description>
     </item>
     
@@ -37,9 +34,9 @@ flowchart LR Study --&gt; Pass Pass --&gt; Happy Happy --&gt; Money Money --&gt;
       
       <guid>http://www.pandeyuday.com.np/posts/just-testing/</guid>
       <description>I&amp;rsquo;m just testing my website.
-I love this song Link to heading Twitter test Link to heading Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
-&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 Blockquote with attribution Link to heading It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable. — Socrates1
-My Favourite movies Link to heading Name Year Rating 12 Angry Men 1957 95 Vertigo 1958 99 2001: A Space Odyssey 1968 100 Code block Link to heading &amp;lt;!</description>
+Image test Link to heading Sunsetsuccess
+Youtube test (I love this song 😇) Link to heading Twitter test Link to heading Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
+&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 Blockquote with attribution Link to heading It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.</description>
     </item>
     
   </channel>
