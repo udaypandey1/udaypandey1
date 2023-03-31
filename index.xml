@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uday</title>
+    <link>http://www.pandeyuday.com.np/</link>
+    <description>Recent content on uday</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 31 Mar 2023 08:15:29 +0545</lastBuildDate><atom:link href="http://www.pandeyuday.com.np/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I made a website</title>
+      <link>http://www.pandeyuday.com.np/posts/made-website/</link>
+      <pubDate>Fri, 31 Mar 2023 08:15:29 +0545</pubDate>
+      
+      <guid>http://www.pandeyuday.com.np/posts/made-website/</guid>
+      <description>So, I made a website using Hugo. And it was very easy.
+I will insert an image here.
+The Universe
+Isn&amp;rsquo;t the universe beautiful?</description>
+    </item>
+    
+    <item>
+      <title>More Testing</title>
+      <link>http://www.pandeyuday.com.np/posts/more-testing/</link>
+      <pubDate>Fri, 31 Mar 2023 06:45:29 +0545</pubDate>
+      
+      <guid>http://www.pandeyuday.com.np/posts/more-testing/</guid>
+      <description>I&amp;rsquo;m doing more testing.
+Shortcodes Avisos Link to heading Note I&amp;rsquo;m smiling 😄. Tip Study more 📖. Example Handegg is a sport 🏈. Question What is love? Baby don&amp;rsquo;t hurt me.. Info Cyanide is poisonous 💀. Warning I&amp;rsquo;m handsome! 😏 Error You&amp;rsquo;re stupid. This is how you add charts to websites.
+flowchart LR Study --&gt; Pass Pass --&gt; Happy Happy --&gt; Money Money --&gt; Happy </description>
+    </item>
+    
+    <item>
+      <title>Just testing</title>
+      <link>http://www.pandeyuday.com.np/posts/just-testing/</link>
+      <pubDate>Fri, 31 Mar 2023 06:15:29 +0545</pubDate>
+      
+      <guid>http://www.pandeyuday.com.np/posts/just-testing/</guid>
+      <description>I&amp;rsquo;m just testing my website.
+I love this song Link to heading Twitter test Link to heading Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
+&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 Blockquote with attribution Link to heading It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable. — Socrates1
+My Favourite movies Link to heading Name Year Rating 12 Angry Men 1957 95 Vertigo 1958 99 2001: A Space Odyssey 1968 100 Code block Link to heading &amp;lt;!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.pandeyuday.com.np/about/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pandeyuday.com.np/about/</guid>
+      <description>I am a medical student from Kathmandu, Nepal.
+I like learning new things. 💀
+I&amp;rsquo;m a beginner cinephile 🎦, a music lover 🎸, and a football fan ⚽.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.pandeyuday.com.np/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pandeyuday.com.np/contact/</guid>
+      <description>Follow my socials (they&amp;rsquo;re on the homepage 💀), or shoot me an email.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.pandeyuday.com.np/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pandeyuday.com.np/projects/</guid>
+      <description>Coming soon&amp;hellip;.😏</description>
+    </item>
+    
+  </channel>
+</rss>
